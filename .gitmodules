@@ -2,3 +2,7 @@
 	path = submodule
 	url = https://github.com/andrleew/test.git
 	branch = master
+[submodule "test"]
+	path = test
+	url = https://github.com/andrleew/test
+	branch = master
